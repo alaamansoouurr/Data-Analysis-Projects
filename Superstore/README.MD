@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard
+# Superstore Analysis Dashboard
 ## Overview
 Analysis Sales using Power Bi
 ## Tools Used
