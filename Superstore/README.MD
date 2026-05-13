@@ -18,4 +18,4 @@ Analysis Sales using Power Bi
 - Revenue LY & Total Revenue
 - Revenue MOM
 - Revenue QOQ
-- Sup-Catgory Time Analysis
+- Sup-Category Time Analysis
